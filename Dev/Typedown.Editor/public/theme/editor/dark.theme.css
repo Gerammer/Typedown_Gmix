@@ -10,6 +10,15 @@
     --editorColor30: rgba(255, 255, 255, .3);
     --editorColor10: rgba(255, 255, 255, .1);
     --editorColor04: rgba(255, 255, 255, .04);
+    --editorHeader1: #e5c07b;
+    --editorHeader2: #e06c75;
+    --editorHeader3: #98c379;
+    --editorHeader4: #61afef;
+    --editorHeader5: #d19a66;
+    --editorHeader6: #c678dd;
+    --editorliText: #e06c75;
+    --editorBoldText: #e5c07b;
+    --editorStrText: #c678dd;
     --editorBgColor: #282828;
     --deleteColor: #409eff;
     --iconColor: rgba(255, 255, 255, .56);
