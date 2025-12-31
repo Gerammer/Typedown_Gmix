@@ -23,6 +23,30 @@ mark {
   line-height: 1.2;
 }
 
+h1 {
+  color: var(--editorHeader1);
+}
+
+h2 {
+  color: var(--editorHeader2);
+}
+
+h3 {
+  color: var(--editorHeader3);
+}
+
+h4 {
+  color: var(--editorHeader4);
+}
+
+h5 {
+  color: var(--editorHeader5);
+}
+
+h6 {
+  color: var(--editorHeader6);
+}
+
 mark::before,
 mark::after {
   clip-path: inset(100%);
